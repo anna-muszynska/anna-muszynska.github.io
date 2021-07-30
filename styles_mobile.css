@@ -1,0 +1,37 @@
+@media (max-width: 600px) {
+  h5 {
+    color: rgb(248, 237, 75);
+  }
+
+  p {
+    text-align: center;
+  }
+
+  main {
+    height: auto;
+    grid-template-rows: 50% 50%;
+  }
+
+  .description {
+    grid-area: 2/1/3/3;
+    align-items: center;
+  }
+
+  .description button {
+    padding: 16px 0px;
+    border-radius: 16px;
+    line-height: 0px;
+  }
+
+  .self_portrait {
+    grid-area: 1/1/2/3;
+  }
+
+  .self_portrait img {
+    min-width: 150px;
+    max-width: 150px;
+    min-height: 150px;
+    max-height: 150px;
+    border-radius: 75px;
+  }
+}
