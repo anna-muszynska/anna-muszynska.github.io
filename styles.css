@@ -95,6 +95,7 @@ main {
   grid-column-end: 3;
   display: flex;
   justify-content: center;
+  position: relative;
 }
 
 .self_portrait img {
