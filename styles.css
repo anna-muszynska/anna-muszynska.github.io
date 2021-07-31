@@ -69,6 +69,7 @@ main {
   width: 170px;
   height: 30px;
   border-radius: 15px;
+  background-color: #efefef;
   color: rgb(8, 42, 95);
   font-weight: bold;
   word-spacing: 5px;
