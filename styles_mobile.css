@@ -19,7 +19,7 @@
     max-width: 340px;
   }
 
-  main {
+  header {
     height: auto;
     grid-template-rows: 35% 65%;
   }

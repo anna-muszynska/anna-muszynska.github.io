@@ -5,11 +5,6 @@
   font-family: "Lato", sans-serif;
 }
 
-body {
-  background-image: url("/images/background_img.jpg");
-  background-size: cover;
-}
-
 h1 {
   margin-bottom: 5px;
   word-spacing: 6px;
@@ -30,21 +25,18 @@ p {
 }
 
 .container {
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(
-    157deg,
-    rgba(221, 220, 233, 0.7) 0%,
-    rgba(54, 96, 136, 0.7) 49%,
-    rgba(20, 44, 115, 0.7) 100%
-  );
+  background-image: url("./images/background_img.png");
+  background-size: cover;
 }
 
-main {
+header {
+  /* min-height: 100vh; */
   width: 1080px;
-  height: 400px;
+  padding: 60px 0px;
   display: grid;
   grid-template-columns: 50% 50%;
   color: rgb(255, 255, 255);
