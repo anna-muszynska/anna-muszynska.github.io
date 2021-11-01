@@ -78,31 +78,31 @@
     background-repeat: no-repeat;
     background-position: center;
     width: 100%;
+    height: 180px;
   }
 
   .image_container1 {
     background-image: url(/images/gmail_log_in.png);
-    height: 300px;
   }
 
   .image_container2 {
-    background-image: url(/images/Guess_my_number.png);
-    height: 180px;
+    background-image: url(/images/Slider.png);
   }
 
   .image_container3 {
-    background-image: url(/images/the_pig_game.png);
-    height: 180px;
+    background-image: url(/images/Guess_my_number.png);
   }
 
   .image_container4 {
-    background-image: url(/images/Bankist-App.png);
-    height: 180px;
+    background-image: url(/images/the_pig_game.png);
   }
 
   .image_container5 {
+    background-image: url(/images/Bankist-App.png);
+  }
+
+  .image_container6 {
     background-image: url(/images/Bankist-website.png);
-    height: 180px;
   }
 
   main p {
