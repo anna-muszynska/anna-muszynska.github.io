@@ -82,7 +82,7 @@
   }
 
   .image_container1 {
-    background-image: url(/images/gmail_log_in.png);
+    background-image: url(/images/Money_Finder.png);
   }
 
   .image_container2 {
@@ -90,18 +90,22 @@
   }
 
   .image_container3 {
-    background-image: url(/images/Guess_my_number.png);
+    background-image: url(/images/gmail_log_in.png);
   }
 
   .image_container4 {
-    background-image: url(/images/the_pig_game.png);
+    background-image: url(/images/Guess_my_number.png);
   }
 
   .image_container5 {
-    background-image: url(/images/Bankist-App.png);
+    background-image: url(/images/the_pig_game.png);
   }
 
   .image_container6 {
+    background-image: url(/images/Bankist-App.png);
+  }
+
+  .image_container7 {
     background-image: url(/images/Bankist-website.png);
   }
 
